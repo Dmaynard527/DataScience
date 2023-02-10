@@ -1,0 +1,48 @@
+/*  Section 3  */
+
+.section-heading {
+  text-align:center;
+  color:#102C4E;
+  margin-bottom:50px;
+  font-size: 50px;
+}
+
+/* Sizing for Project Containers  */
+
+.column-4 {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  margin:20px;
+  height: 140px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Color and Images for Project Containers  */
+.project-1 {
+  background-color:#112d4e;
+  color: white;
+}
+
+.project-2 {
+  background-color:#209BFF;
+  color: white;
+}
+
+.project-text {
+  text-align:center;
+  font-size:30px;
+}
+
+/* Hover classes for individual project boxes */
+
+.project-1:hover {
+  filter: brightness(50%);
+}
+
+.project-2:hover {
+  filter: brightness(50%);
+}
